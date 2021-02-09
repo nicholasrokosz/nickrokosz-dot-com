@@ -1,11 +1,11 @@
 ---
-title: "About"
-date: "2018-07-19"
-author: "Radek"
+title: "About Me"
+date: ""
+author: ""
 path: "/about"
 ---
 
-## Hi there
+## Hi there 👋
 
 My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
 
