@@ -5,9 +5,9 @@ author: ""
 path: "/about"
 ---
 
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+<!-- My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
 
 We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
 
@@ -20,4 +20,6 @@ The starter includes:
 - nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
 - responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
 
-So, there you have it... enjoy!
+So, there you have it... enjoy! -->
+
+I'm a 24-year-old software developer living in Phoenix, AZ.
