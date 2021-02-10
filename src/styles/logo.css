@@ -1,0 +1,6 @@
+.logo {
+  fill: var(--light-color);
+  .dark-theme & {
+    fill: var(--dark-color);
+  }
+}
