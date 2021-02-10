@@ -18,18 +18,32 @@ const BlogPostTemplate = ({ data, pageContext }) => {
   return (
     <Layout>
       <SEO title={title} description={excerpt || autoExcerpt} />
-      <Post
-        key={id}
-        title={title}
-        // date={date} <---------------------------------------- fix this
-        path={path}
-        author={author}
-        coverImage={coverImage}
-        html={html}
-        tags={tags}
-        previousPost={previous}
-        nextPost={next}
-      />
+      {date !== "Invalid date" ? (
+        <Post
+          key={id}
+          title={title}
+          date={date}
+          path={path}
+          author={author}
+          coverImage={coverImage}
+          html={html}
+          tags={tags}
+          previousPost={previous}
+          nextPost={next}
+        />
+      ) : (
+        <Post
+          key={id}
+          title={title}
+          path={path}
+          author={author}
+          coverImage={coverImage}
+          html={html}
+          tags={tags}
+          previousPost={previous}
+          nextPost={next}
+        />
+      )}
     </Layout>
   );
 };
