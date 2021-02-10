@@ -1,6 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
 import ExternalLink from "./ExternalLink";
+import GithubLogo from "./logos/GithubLogo";
+import GatsbyLogo from "./logos/GatsbyLogo";
 
 const Footer = ({ copyrights }) => (
   <footer>
@@ -20,17 +22,16 @@ const Footer = ({ copyrights }) => (
           <ExternalLink
             url="https://github.com/nicholasrokosz"
             text="Nick Rokosz"
-            icon="github"
-          />
+          >
+            <GithubLogo />
+          </ExternalLink>
           with{" "}
           {/* <a href="https://www.gatsbyjs.org" target="_blank">
             Gatsby
           </a> */}
-          <ExternalLink
-            url="https://www.gatsbyjs.org"
-            text="Gatsby"
-            icon="gatsby"
-          />
+          <ExternalLink url="https://www.gatsbyjs.org" text="Gatsby">
+            <GatsbyLogo />
+          </ExternalLink>
         </span>
       </>
     )}
