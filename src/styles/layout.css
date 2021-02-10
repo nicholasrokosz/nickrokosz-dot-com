@@ -329,6 +329,7 @@ footer {
   @media (--phone) {
     display: flex;
     flex-direction: column;
+    font-size: 0.65rem;
   }
 
   .footerCopyrights {
