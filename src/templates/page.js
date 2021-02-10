@@ -21,7 +21,7 @@ const BlogPostTemplate = ({ data, pageContext }) => {
       <Post
         key={id}
         title={title}
-        // date={date}
+        // date={date} <---------------------------------------- fix this
         path={path}
         author={author}
         coverImage={coverImage}
