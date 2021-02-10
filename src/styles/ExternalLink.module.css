@@ -1,0 +1,17 @@
+.icon {
+  width: 1.5ch;
+  position: relative;
+  display: inline-block;
+  margin-right: 0.5ch;
+  margin-left: 0.1ch;
+}
+
+a,
+img {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-line: underline;
+  text-decoration-thickness: initial;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+}
