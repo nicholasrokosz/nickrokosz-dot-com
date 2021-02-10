@@ -13,8 +13,13 @@ const Footer = ({ copyrights }) => (
       <>
         <span className="footerCopyrights">
           © 2021 Built by{" "}
-          <a href="https://github.com/nicholasrokosz">Nick Rokosz</a> with{" "}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://github.com/nicholasrokosz" target="_blank">
+            Nick Rokosz
+          </a>{" "}
+          with{" "}
+          <a href="https://www.gatsbyjs.org" target="_blank">
+            Gatsby
+          </a>
         </span>
       </>
     )}
