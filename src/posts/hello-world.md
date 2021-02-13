@@ -7,7 +7,7 @@ excerpt: 'Why start a blog?'
 
 ## Why?
 
-I don't like the current social media options but I still want a place to share my interests online. Eventually I might have something original to say. In the meantime, I hope to get better at writing and organizing my thoughts <a href="https://www.collaborativefund.com/blog/selfish-writing/" target="_blank">for my own benefit</a>.
+I don't like the current social media options but I still want a place to share my interests online. Eventually, I might have something original to say. In the meantime, I hope to get better at writing and organizing my thoughts <a href="https://www.collaborativefund.com/blog/selfish-writing/" target="_blank">for my benefit</a>.
 
 ## What to expect:
 
