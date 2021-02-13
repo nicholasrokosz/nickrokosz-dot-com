@@ -1,7 +1,7 @@
 ---
 title: "Hello, World!"
 path: "/hello-world"
-date: "2021-02-09"
+date: "2021-02-13"
 excerpt: 'Why start a blog?'
 ---
 
