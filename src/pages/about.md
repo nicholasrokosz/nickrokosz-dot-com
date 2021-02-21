@@ -3,9 +3,10 @@ title: "About Me"
 date: ""
 author: ""
 path: "/about"
+coverImage: "../images/office-in-a-small-city.png"
 ---
 
-I'm a 24-year-old software developer splitting time between Phoenix, AZ and the internet.
+I'm a 24-year-old software developer living in Phoenix, AZ.<br>
 Check out my code on <a href="https://github.com/nicholasrokosz" target="_blank">GitHub</a>.
 
 ## Contact
