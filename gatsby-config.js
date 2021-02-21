@@ -85,16 +85,20 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-embed-video",
+            resolve: `gatsby-remark-embedder`,
             options: {
-              related: false,
-              noIframeBorder: true,
+              customTransformers: [
+                // Your custom transformers
+              ],
+              services: {
+                // The service-specific options by the name of the service
+              },
             },
           },
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 800,
+              maxWidth: 600,
               quality: 100,
             },
           },
