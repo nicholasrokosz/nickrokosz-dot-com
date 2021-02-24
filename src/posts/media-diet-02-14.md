@@ -48,7 +48,7 @@ Governments want this because legible things are easier quantify and tax.
 This phenomenon of prioritizing legibility was popular in part thanks to proponents of <a href="https://en.wikipedia.org/wiki/High_modernism" target="_blank">High Modernism</a>, “an aesthetic taste masquerading as a scientific philosophy.”
 >The High Modernists claimed to be about figuring out the most efficient and high-tech way of doing things, but most of them knew little relevant math or science and were basically just LARPing being rational by placing things in evenly-spaced rectangular grids.
 
-The High Modernists majorly influenced today’s world, for better and for worse. The common thread across all their failures is hubris. Complex systems like forests and cities can't be abstracted into orderly replicas without missing important features that make the organic versions work well.
+The High Modernists majorly influenced today’s world, for better and for worse. The common thread across all of their failures is hubris. Complex systems like forests and cities can't be abstracted into orderly replicas without missing important features that make the organic versions work well.
 
 # Seen
 
