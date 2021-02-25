@@ -18,17 +18,17 @@ module.exports = {
     logoText: "Nick Rokosz",
     defaultTheme: "light",
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 1,
     menuMoreText: "Show more",
     mainMenu: [
       {
         title: "About",
         path: "/about",
       },
-      // {
-      //   title: "Showcase",
-      //   path: "/showcase",
-      // },
+      {
+        title: "Colophon",
+        path: "/colophon",
+      },
       // {
       //   title: "Example",
       //   path: "/example",
