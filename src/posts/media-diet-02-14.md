@@ -8,6 +8,8 @@ tags: ["media_diet"]
 
 > UPDATE: Media diet posts will be monthly going forward. The next edition will cover the end of February and all of March.
 
+> UPDATE 2 (a year later): Didn't happen.
+
 # Read
 
 I read less from books and more online last week, probably because I wanted more to include here. This was a mistake, as it turns out writing is hard and takes a while.
