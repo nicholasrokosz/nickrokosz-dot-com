@@ -15,7 +15,7 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2021 Built by{" "}
+          © 2022 Built by{" "}
           {/* <a href="https://github.com/nicholasrokosz" target="_blank">
             Nick Rokosz
           </a>{" "} */}
