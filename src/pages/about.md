@@ -6,7 +6,7 @@ path: "/about"
 coverImage: "../images/office-in-a-small-city.png"
 ---
 
-I'm a 25-year-old software developer living in Scottsdale, AZ.<br>
+I'm a 26-year-old software developer living in Scottsdale, AZ.<br>
 Check out my code on <a href="https://github.com/nicholasrokosz" target="_blank">GitHub</a>.
 
 ## Contact
